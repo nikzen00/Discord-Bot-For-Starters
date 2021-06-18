@@ -12,4 +12,4 @@ client.aliases = new discord.Collection();
 });
 
 
-client.login(token);
+client.login(ODU0MDI5NDYwNjI5NjE4Njg4.YMd-6g.S8fPIPRwQPSc__gGQ9g5_j9PMyE);
